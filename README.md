@@ -1,6 +1,6 @@
 # A simple quiz app
 
-## Images
+## Demo
 
 ![](./public/image1.png)
 ![](./public/image2.png)
